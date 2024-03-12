@@ -1,3 +1,3 @@
-__version__ = "0.1.0"
+__version__ = "0.1.20240312"
 
 from .module1 import *
